@@ -18,6 +18,9 @@
 
 
 ## ส่วนที่เพิ่มเข้ามา
+- DEV A : เพิ่มปุ่ม Dark Mode
+- DEV A : เพิ่ม Loading Animation
+- DEV A : เพิ่ม Scroll Progress 
 - DEV B : เพิ่มปุ่มกรอง project
 - DEV B : เพิ่มปุ่มสำหรับ back to top
 - DEV B : เพิ่ม Typing Text
