@@ -24,3 +24,7 @@ https://docs.google.com/document/d/1WZ3K8kXaLQ_pQS1EHc6aPcXGKJCS9IJiKmeDm1rkN0U/
 
 ## site link
 https://peawzaza.github.io/portfolio-website-pair/
+
+## Members
+- ปวริศ คูณศรี
+- ตรัยรัตน์ วงษ์สิทธิ์

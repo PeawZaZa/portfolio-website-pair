@@ -91,6 +91,8 @@ let textIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
 
+
+//typing effect function
 function typeWriter() {
     const currentText = textArray[textIndex];
     
